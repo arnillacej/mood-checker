@@ -1,4 +1,4 @@
-print("Hi there!")
+print("Hi there !")
 name = input("What's your name?: ")
 print("Cool name, " + name + ".")
 print("As you perhaps already know " + name + ", this program will help you check your own mood. So lets start.")
